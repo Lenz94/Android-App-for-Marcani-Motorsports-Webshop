@@ -1,4 +1,7 @@
 # Android-App-for-Marcani-Motorsports-Webshop
+
+![alt tag](https://raw.github.com/Lenz94/Android-App-for-Marcani-Motorsports-Webshop/master/screenshots/webshop_android_screenshot.jpg)
+
 Marcani Motorsports became the success of my 2014 projects! so now it's time to bring the Android app for the mobile users and this app has all the features the standard webshop has.
 
 <h3>Requirements</h3>
